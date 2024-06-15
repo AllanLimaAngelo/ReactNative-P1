@@ -1,4 +1,4 @@
-import {StyleSheet} from 'react-native';
+import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
   container: {
@@ -11,13 +11,13 @@ export const styles = StyleSheet.create({
     width: 180,
     height: 100,
     resizeMode: 'contain',
-    
+
   },
   input: {
     width: '80%',
     height: 60,
     padding: 10,
-    margin:5,
+    margin: 5,
     borderWidth: 1,
     borderColor: '#ddd',
     borderRadius: 5,
@@ -55,9 +55,9 @@ export const styles = StyleSheet.create({
   },
   facebookButton: {
     flexDirection: 'row',
-    gap:10,
+    gap: 10,
     width: '80%',
-    justifyContent:'center',
+    justifyContent: 'center',
     alignItems: 'center',
     marginVertical: 10,
   },
@@ -72,8 +72,8 @@ export const styles = StyleSheet.create({
   },
   signUp: {
     color: '#3897f0',
-    margin: 80,
-    fontSize: 20,
+    margin: 70,
+    fontSize: 16,
   },
   appLinkText: {
     color: '#888',
@@ -89,4 +89,5 @@ export const styles = StyleSheet.create({
     color: '#888',
 
   },
+
 });
