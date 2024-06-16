@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, ScrollView } from 'react-native';
-import { styles } from './styles2';
+import { styles } from './stylesCadastro';
 
 const Cadastro = () => {
   const [activeTab, setActiveTab] = useState('TELEFONE');
