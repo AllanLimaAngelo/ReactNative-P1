@@ -3,8 +3,8 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 <h1 align="center">
-   <img src="https://raw.githubusercontent.com/AllanLimaAngelo/ReactNative-P1/main/src/assets/image1.png" alt="login" width="100"/>
-   <img src="https://raw.githubusercontent.com/AllanLimaAngelo/ReactNative-P1/main/src/assets/image2.png" alt="cadastro" width="100"/>
+   <img src="https://raw.githubusercontent.com/AllanLimaAngelo/ReactNative-P1/main/src/assets/image1.png" alt="login" width="300"/>
+   <img src="https://raw.githubusercontent.com/AllanLimaAngelo/ReactNative-P1/main/src/assets/image2.png" alt="cadastro" width="300"/>
 </h1>
 
 ## Get started
