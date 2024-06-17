@@ -42,7 +42,6 @@ const Cadastro = () => {
         <View style={styles.inputContainer}>
           <Text style={styles.label}>Endereço de email</Text>
           <TextInput style={styles.input} placeholder="email@example.com" />
-          {/* ScrollView horizontal para os tipos de email */}
           <ScrollView
             horizontal
             showsHorizontalScrollIndicator={false}
